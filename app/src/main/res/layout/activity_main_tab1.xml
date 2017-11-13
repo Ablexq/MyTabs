@@ -20,7 +20,8 @@
         <TextView
             android:id="@+id/home_tab_one_text"
             style="@style/tab_text"
-            android:text="@string/tab1" />
+            android:text="@string/tab1"
+            android:textColor="#3082f2" />
     </LinearLayout>
 
     <LinearLayout
@@ -37,7 +38,8 @@
         <TextView
             android:id="@+id/home_tab_two_text"
             style="@style/tab_text"
-            android:text="@string/tab2" />
+            android:text="@string/tab2"
+            android:textColor="#000000" />
     </LinearLayout>
 
     <LinearLayout
@@ -54,7 +56,8 @@
         <TextView
             android:id="@+id/home_tab_three_text"
             style="@style/tab_text"
-            android:text="@string/tab3" />
+            android:text="@string/tab3"
+            android:textColor="#000000" />
     </LinearLayout>
 
 </LinearLayout>

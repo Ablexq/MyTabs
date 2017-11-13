@@ -122,27 +122,33 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     drawableSelect1.setBounds(0, 0, drawableSelect1.getMinimumWidth(), drawableSelect1.getMinimumHeight());
                     tab1.setCompoundDrawables(null, drawableSelect1, null, null);
                     tab1.setTextColor(Color.parseColor("#3082f2"));
+                    tab1.setCompoundDrawablePadding(3);
 
                     drawableDefault2.setBounds(0, 0, drawableDefault2.getMinimumWidth(), drawableDefault2.getMinimumHeight());
                     tab2.setCompoundDrawables(null, drawableDefault2, null, null);
                     tab2.setTextColor(Color.parseColor("#000000"));
+                    tab2.setCompoundDrawablePadding(3);
 
                     drawableDefault3.setBounds(0, 0, drawableDefault3.getMinimumWidth(), drawableDefault3.getMinimumHeight());
                     tab3.setCompoundDrawables(null, drawableDefault3, null, null);
                     tab3.setTextColor(Color.parseColor("#000000"));
+                    tab3.setCompoundDrawablePadding(3);
 
                     /*radiobutton*/
                     drawableSelect1.setBounds(0, 0, drawableSelect1.getMinimumWidth(), drawableSelect1.getMinimumHeight());
                     btn1.setCompoundDrawables(null, drawableSelect1, null, null);
                     btn1.setTextColor(Color.parseColor("#3082f2"));
+                    btn1.setCompoundDrawablePadding(3);
 
                     drawableDefault2.setBounds(0, 0, drawableDefault2.getMinimumWidth(), drawableDefault2.getMinimumHeight());
                     btn2.setCompoundDrawables(null, drawableDefault2, null, null);
                     btn2.setTextColor(Color.parseColor("#000000"));
+                    btn2.setCompoundDrawablePadding(3);
 
                     drawableDefault3.setBounds(0, 0, drawableDefault3.getMinimumWidth(), drawableDefault3.getMinimumHeight());
                     btn3.setCompoundDrawables(null, drawableDefault3, null, null);
                     btn3.setTextColor(Color.parseColor("#000000"));
+                    btn3.setCompoundDrawablePadding(3);
 
                     break;
 
@@ -158,27 +164,33 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     drawableDefault1.setBounds(0, 0, drawableDefault1.getMinimumWidth(), drawableDefault1.getMinimumHeight());
                     tab1.setCompoundDrawables(null, drawableDefault1, null, null);
                     tab1.setTextColor(Color.parseColor("#000000"));
+                    tab1.setCompoundDrawablePadding(3);
 
                     drawableSelect2.setBounds(0, 0, drawableSelect2.getMinimumWidth(), drawableSelect2.getMinimumHeight());
                     tab2.setCompoundDrawables(null, drawableSelect2, null, null);
                     tab2.setTextColor(Color.parseColor("#3082f2"));
+                    tab2.setCompoundDrawablePadding(3);
 
                     drawableDefault3.setBounds(0, 0, drawableDefault3.getMinimumWidth(), drawableDefault3.getMinimumHeight());
                     tab3.setCompoundDrawables(null, drawableDefault3, null, null);
                     tab3.setTextColor(Color.parseColor("#000000"));
+                    tab3.setCompoundDrawablePadding(3);
 
                     /*radiobutton*/
                     drawableDefault1.setBounds(0, 0, drawableDefault1.getMinimumWidth(), drawableDefault1.getMinimumHeight());
                     btn1.setCompoundDrawables(null, drawableDefault1, null, null);
                     btn1.setTextColor(Color.parseColor("#000000"));
+                    btn1.setCompoundDrawablePadding(3);
 
                     drawableSelect2.setBounds(0, 0, drawableSelect2.getMinimumWidth(), drawableSelect2.getMinimumHeight());
                     btn2.setCompoundDrawables(null, drawableSelect2, null, null);
                     btn2.setTextColor(Color.parseColor("#3082f2"));
+                    btn2.setCompoundDrawablePadding(3);
 
                     drawableDefault3.setBounds(0, 0, drawableDefault3.getMinimumWidth(), drawableDefault3.getMinimumHeight());
                     btn3.setCompoundDrawables(null, drawableDefault3, null, null);
                     btn3.setTextColor(Color.parseColor("#000000"));
+                    btn3.setCompoundDrawablePadding(3);
                     break;
 
                 case 2:
@@ -193,27 +205,33 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     drawableDefault1.setBounds(0, 0, drawableDefault1.getMinimumWidth(), drawableDefault1.getMinimumHeight());
                     tab1.setCompoundDrawables(null, drawableDefault1, null, null);
                     tab1.setTextColor(Color.parseColor("#000000"));
+                    tab1.setCompoundDrawablePadding(3);
 
                     drawableDefault2.setBounds(0, 0, drawableDefault2.getMinimumWidth(), drawableDefault2.getMinimumHeight());
                     tab2.setCompoundDrawables(null, drawableDefault2, null, null);
                     tab2.setTextColor(Color.parseColor("#000000"));
+                    tab2.setCompoundDrawablePadding(3);
 
                     drawableSelect3.setBounds(0, 0, drawableSelect3.getMinimumWidth(), drawableSelect3.getMinimumHeight());
                     tab3.setCompoundDrawables(null, drawableSelect3, null, null);
                     tab3.setTextColor(Color.parseColor("#3082f2"));
+                    tab3.setCompoundDrawablePadding(3);
 
                     /*radiobutton*/
                     drawableDefault1.setBounds(0, 0, drawableDefault1.getMinimumWidth(), drawableDefault1.getMinimumHeight());
                     btn1.setCompoundDrawables(null, drawableDefault1, null, null);
                     btn1.setTextColor(Color.parseColor("#000000"));
+                    btn1.setCompoundDrawablePadding(3);
 
                     drawableDefault2.setBounds(0, 0, drawableDefault2.getMinimumWidth(), drawableDefault2.getMinimumHeight());
                     btn2.setCompoundDrawables(null, drawableDefault2, null, null);
                     btn2.setTextColor(Color.parseColor("#000000"));
+                    btn2.setCompoundDrawablePadding(3);
 
                     drawableSelect3.setBounds(0, 0, drawableSelect3.getMinimumWidth(), drawableSelect3.getMinimumHeight());
                     btn3.setCompoundDrawables(null, drawableSelect3, null, null);
                     btn3.setTextColor(Color.parseColor("#3082f2"));
+                    btn3.setCompoundDrawablePadding(3);
                     break;
             }
 
