@@ -20,7 +20,7 @@ tab1.setCompoundDrawablePadding(3);//单位px
 
 二、水波纹：
 
-![](https://github.com/Ablexq/MyTabs/blob/master/pic/b.jpg)
+![](https://github.com/Ablexq/MyTabs/blob/master/pic/b.png)
 
 
 
