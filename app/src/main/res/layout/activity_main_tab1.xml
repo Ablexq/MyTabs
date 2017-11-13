@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="56dp"
+    android:baselineAligned="false"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:id="@+id/home_tab_one"
+        style="@style/tab_container"
+        tools:ignore="UseCompoundDrawables">
+
+        <ImageView
+            android:id="@+id/home_tab_one_icon"
+            style="@style/tab_iv"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/tab1_icon_select" />
+
+        <TextView
+            android:id="@+id/home_tab_one_text"
+            style="@style/tab_text"
+            android:text="@string/tab1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/home_tab_two"
+        style="@style/tab_container"
+        tools:ignore="UseCompoundDrawables">
+
+        <ImageView
+            android:id="@+id/home_tab_two_icon"
+            style="@style/tab_iv"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/tab2_icon_default" />
+
+        <TextView
+            android:id="@+id/home_tab_two_text"
+            style="@style/tab_text"
+            android:text="@string/tab2" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/home_tab_three"
+        style="@style/tab_container"
+        tools:ignore="UseCompoundDrawables">
+
+        <ImageView
+            android:id="@+id/home_tab_three_icon"
+            style="@style/tab_iv"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/tab3_icon_default" />
+
+        <TextView
+            android:id="@+id/home_tab_three_text"
+            style="@style/tab_text"
+            android:text="@string/tab3" />
+    </LinearLayout>
+
+</LinearLayout>

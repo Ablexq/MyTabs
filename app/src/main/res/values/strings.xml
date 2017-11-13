@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyTabs</string>
+    <string name="tab1">借款</string>
+    <string name="tab2">还款</string>
+    <string name="tab3">我的</string>
+    <string name="name1">使用LinearLayout：ImageView + TextView</string>
+    <string name="name2">使用TextView</string>
+    <string name="name3">使用RadioButton和RadioGroup</string>
+</resources>
